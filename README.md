@@ -24,6 +24,9 @@ The ultrasonic sensor continuously measures the distance between the user and su
 
 The vibration intensity or pattern can indicate how close the obstacle is, helping the user navigate safely.
 
+## 📷 Circuit Diagram
+![Circuit](circuit.png)
+
 ## How to Run
 
 1. Open Arduino IDE
